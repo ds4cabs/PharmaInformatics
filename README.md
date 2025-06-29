@@ -22,5 +22,5 @@ Contributing is simple! Just follow these steps:
 4. Make sure your script can be executed from the command line using a format like:
 
 ```
-./src/pubmed_target_search.py -d "Alzheimer's disease" -n 100 -o alzheimer_targets.csv
+./src/pubmed_target_search.py -d "Alzheimer's disease" -n 100 -o ./output/alzheimer_targets.csv
 ```
