@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 """
-Search PubMed for potential drug targets based on disease keywords
+Search PubMed for potential drug targets based on disease keywords. 
+This script performs comprehensive literature mining from PubMed to identify potential 
+drug targets for specified diseases. It leverages NCBI's E-utilities API to search 
+through millions of biomedical publications and extract relevant information about 
+therapeutic targets, biomarkers, and molecular mechanisms.
 """
 import argparse
 import requests
