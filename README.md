@@ -2,7 +2,7 @@
 
 **Reusable scripts for end-to-end pharmaceutical R&D.**
 
-PharmaInformatics is a curated collection of Python/R scripts covering the full drug development lifecycle—from **target discovery** to **commercial strategy**. Designed for computational biologists, data scientists, and pharma innovators.
+PharmaInformatics is a curated collection of Python/R/Java scripts covering the full drug development lifecycle—from **target discovery** to **commercial strategy**. Designed for computational biologists, data scientists, and pharma innovators.
 
 ## 🧪 Scope
 
