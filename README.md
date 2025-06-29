@@ -6,7 +6,7 @@ PharmaInformatics is a curated collection of Python/R/Java scripts covering the 
 
 ## 🧪 Scope
 
-This project covers six key stages of pharma R&D, including Target ID, Hit Discovery, Preclinical, Clinical, Manufacturing, and Commercial.
+This project covers seven key stages of pharma R&D, including Target ID, Hit Discovery, Preclinical, Clinical, Operation (IT, HR, Finance), Manufacturing, and Commercial.
 
 ## Contribution Guidelines
 
